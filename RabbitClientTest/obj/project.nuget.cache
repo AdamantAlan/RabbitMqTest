@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "k8DfKwT/zNM2HU5EHeuMvhiRzfgU3+NGxVZQjyCTqrDNFAYuYhbD932lAQhFllora7k3aOZTUkKBUYbdBtn1ug==",
+  "success": true,
+  "projectFilePath": "W:\\projects\\RabbitClientTest\\RabbitClientTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\myagk\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\myagk\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\myagk\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\myagk\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\myagk\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}

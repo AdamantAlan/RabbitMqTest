@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitTest", "RabbitTest.csproj", "{EAA775BB-DB22-435C-BFA3-9A2B40381582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitClientTest", "..\RabbitClientTest\RabbitClientTest.csproj", "{398CA273-1B90-432B-850F-DED8573617BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA775BB-DB22-435C-BFA3-9A2B40381582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA775BB-DB22-435C-BFA3-9A2B40381582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA775BB-DB22-435C-BFA3-9A2B40381582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA775BB-DB22-435C-BFA3-9A2B40381582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{398CA273-1B90-432B-850F-DED8573617BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398CA273-1B90-432B-850F-DED8573617BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398CA273-1B90-432B-850F-DED8573617BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398CA273-1B90-432B-850F-DED8573617BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C42D9A12-EE39-42D4-8C87-FD0848FB8045}
+	EndGlobalSection
+EndGlobal
